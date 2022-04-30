@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ThompsonNye
+- 👀 I’m interested in .NET and Flutter.
