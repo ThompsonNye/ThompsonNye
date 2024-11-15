@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ThompsonNye
-- 👀 I’m interested in .NET and Flutter.
+- 👀 I’m interested in .NET, Angular and Flutter.
